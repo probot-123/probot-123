@@ -1,5 +1,6 @@
 ## Hi, I'm Yash Chaurasia 👋
 Aspiring Data Scientist
+
 🔭 I’m currently working on data science projects involving machine learning and predictive analytics.
 
 🌱 I’m currently learning deep learning techniques and data engineering tools.
